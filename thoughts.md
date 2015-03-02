@@ -26,3 +26,6 @@ I've used these before. For height_in_cm, the answer produces too many decimal p
 
 ##### Exercise 7: More Printing
 Learned the comma trick for joining two strings with space between them.
+
+###### So far... 
+Very basic stuff! I've come across them before, but I learned some new things I could use for better code/debugging in the future, which is cool. 
