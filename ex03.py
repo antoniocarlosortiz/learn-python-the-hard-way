@@ -15,7 +15,7 @@ print "Is it true that 3 + 2 < 5 - 7?"
 # #This prints out either True or False.
 print 3.0 + 2.0 < 5.0 - 7.0
 
-#Without the comma after the string, you will get a TypeError.
+# Without the comma after the string, you will get a TypeError.
 print "What is 3 + 2?", 3 + 2
 print "What 5 - 7?", 5-7
 
