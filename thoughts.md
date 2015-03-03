@@ -42,7 +42,7 @@ Learned the comma trick for joining two strings with space between them.
 
 <br />
 ---
-#### So far... 
+### So far... 
 Very basic stuff! I've come across them before, but I learned some new things I could use for better code/debugging in the future, which is cool. 
 
 ---
@@ -95,17 +95,11 @@ Modules = Features!!!
 Zork and Adventure is cool!
 Recyclable prompt is nifty.
 
-<<<<<<< HEAD
----
-#### So far...
-I've learned about escape sequences and two ways of inputting data.
-=======
 <br />
 ---
-#### So far...
+### So far...
 I've learned about escape sequences and two ways of inputting data:
 - raw_input()
 - unpacking argv
->>>>>>> c7ead79d3db5f3011f2b312194e5da0555daa20c
 
 ---
