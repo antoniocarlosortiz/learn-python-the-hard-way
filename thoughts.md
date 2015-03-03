@@ -3,10 +3,13 @@
 <br />
 ##### Appendix A: A Command Line Crash Course
 Most of them I've come across already, but I'm glad to know about pushd and popd!
+- pushd - Use this in place of cd for the computer to remember the current directory.
+- popd - Use this to come back to the directory before pushd was called.
 
 <br />
 ##### Exercise 0: The Setup
-Quick startup. I'll still stick to Sublime Text 2 as my text editor instead of TextWrangler the author is suggesting.
+Quick startup!
+Best to use gedit, TextWrangles, or Notepad++ for beginners.
 
 <br />
 ##### Exercise 1: A Good First Program
@@ -15,6 +18,7 @@ It's a very simple exercise on the print function- just print stuff!
 <br />
 ##### Exercise 2: Comments and Pound Characters
 Another simple exercise. I learned that reading code backwards could be helpful. Nice.
+\# character can also be called octothorpe.
 
 <br />
 ##### Exercise 3: Numbers and Math
@@ -79,9 +83,10 @@ The module pydoc conventiently generates documentation from Python modules. e.g.
 <br />
 ##### Exercise 13: Parameters, Unpacking, Variables
 sys.argv module - used for inputting arguments before the script is run
-1. Input variables like this: python filename.py var1 var2 ... varx
-2. We import it like this: from sys import argv
-3. We unpack it inside the script like this: script var1 var2 ... varx  = argv
+  1. Input variables like this: python filename.py var1 var2 ... varx
+  2. We import it like this: from sys import argv
+  3. We unpack it inside the script like this: script var1 var2 ... varx  = argv
+
 <br />
 Modules = Features!!!
 
@@ -90,8 +95,17 @@ Modules = Features!!!
 Zork and Adventure is cool!
 Recyclable prompt is nifty.
 
+<<<<<<< HEAD
 ---
 #### So far...
 I've learned about escape sequences and two ways of inputting data.
+=======
+<br />
+---
+#### So far...
+I've learned about escape sequences and two ways of inputting data:
+- raw_input()
+- unpacking argv
+>>>>>>> c7ead79d3db5f3011f2b312194e5da0555daa20c
 
 ---
