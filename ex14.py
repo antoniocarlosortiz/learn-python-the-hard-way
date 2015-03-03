@@ -1,3 +1,4 @@
+#This imports argv from the sys module
 from sys import argv
 
 # This unpacks the arguments entered before the script is run.

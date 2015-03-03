@@ -15,7 +15,6 @@ print persian_cat
 print backslash_cat
 print fat_cat
 
-
 # \r brings back the cursor at the start of the line, without going to a new line.
 # Thus, it seems like the characters are moving. Cool.
 while True:

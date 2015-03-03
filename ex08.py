@@ -1,3 +1,4 @@
+
 # %r enables us to print several types of variables, be it integer, string, or boolean values.
 # Unlike %s or %d which only lets us print strings and numberic values, respectively.
 
@@ -25,4 +26,3 @@ print formatter % (
 	"But it didn't sing.",
 	"So I said goodnight."
 )
-

@@ -1,3 +1,4 @@
+
 # We add the argv feature that would allow us to input arguments to the script before it is run.
 from sys import argv
 
